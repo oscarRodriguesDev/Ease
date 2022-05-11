@@ -1,1 +1,1 @@
-# Ease
+Este projeto se destina a ajudar pessoas com pouca experiencia em programação na linguagem java, a criar interfaces de janelas de forma mais facil possivel, e ainda atribuir eventos aos diversos componentes de suas interfaces, este projeto terá codigo aberto e seu uso será livre a todos
